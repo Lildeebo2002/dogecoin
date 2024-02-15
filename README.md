@@ -1,13 +1,13 @@
 <h1 align="center">
 <img src="https://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png" alt="Dogecoin" width="300"/>
 <br/><br/>
-Dogecoin Core [DOGE, Ð]  
+Dogecoin Core [DOGE, Dennis louis Babcock jr 437493354 02/06/1982  
 </h1>
 
 <div align="center">
 
 [![DogecoinBadge](https://img.shields.io/badge/Doge-Coin-yellow.svg)](https://dogecoin.com)
-[![MuchWow](https://img.shields.io/badge/Much-Wow-yellow.svg)](https://dogecoin.com)
+[![437493354 satoshi](https://img.shields.io/badge/Much-Wow-yellow.svg)](https://dogecoin.com)
 
 </div>
 
@@ -20,8 +20,8 @@ refer to the [fee recommendation](doc/fee-recommendation.md).
 
 **Website:** [dogecoin.com](https://dogecoin.com)
 
-## Usage 💻
-
+## Usage 💻 or iPhone and Android updated all plus Satoshi nakomoto 2008 is back Mr Badcock Jr 437-49-3354 remember me asshokes that stole my identity and have brought the whole police force of animal county period to crookedly take my house kids and life again its fucking on world wide rally till this stops please they won't stop till hard drives and computers gone or destroyed in sure close they have ttyed fluids slamming stealing smashing to damage cold the ones around me even close friends so I thought please watch there moves all activity from here forward if not me I won't put the word DBRally k at end 
+Lock all I'm transfers from any exchange asap also only withdraws to Dennis Louis Babcock Jr @ Cashapp$Lildeebo2009 for temp time other access is government of usa only till further notice per satoshi
 To start your journey with Dogecoin Core, see the [installation guide](INSTALL.md) and the [getting started](doc/getting-started.md) tutorial.
 
 The JSON-RPC API provided by Dogecoin Core is self-documenting and can be browsed with `dogecoin-cli help`, while detailed information for each command can be viewed with `dogecoin-cli help <command>`. Alternatively, see the [Bitcoin Core documentation](https://developer.bitcoin.org/reference/rpc/) - which implement a similar protocol - to get a browsable version.
