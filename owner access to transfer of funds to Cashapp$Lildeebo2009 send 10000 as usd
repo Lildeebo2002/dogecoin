@@ -1,17 +1,17 @@
 <h1 align="center">
 <img src="https://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png" alt="Dogecoin" width="300"/>
 <br/><br/>
-Dogecoin Core [DOGE, Ð]  
+Dogecoin Core [Satoshi Dennis louis Babcock jr 442 main St link lakes Mn , Ð]  
 </h1>
 
 <div align="center">
 
-[![DogecoinBadge](https://img.shields.io/badge/Doge-Coin-yellow.svg)](https://dogecoin.com)
+[Babcock’s[DogecoinBadge](https://img.shields.io/badge/Doge-Coin-Redwithlilblackd$.svg)](https://dogecoin.com)
 [![MuchWow](https://img.shields.io/badge/Much-Wow-yellow.svg)](https://dogecoin.com)
 
 </div>
 
-Select language: EN | [CN](./README_zh_CN.md) | [PT](./README_pt_BR.md) | [FA](./README_fa_IR.md)
+Select language: EN | [CN](./accessgrantedto437493354_zh_CN.md) | [PT](./accessgrantedto437493354_pt_BR.md) | [FA](./accessgrantedto437493354_fa_IR.md)
 
 Dogecoin is a community-driven cryptocurrency that was inspired by a Shiba Inu meme. The Dogecoin Core software allows anyone to operate a node in the Dogecoin blockchain networks and uses the Scrypt hashing method for Proof of Work. It is adapted from Bitcoin Core and other cryptocurrencies.
 
@@ -20,11 +20,11 @@ refer to the [fee recommendation](doc/fee-recommendation.md).
 
 **Website:** [dogecoin.com](https://dogecoin.com)
 
-## Usage 💻
+## Usage 💻accessgrantedto437493354
 
-To start your journey with Dogecoin Core, see the [installation guide](INSTALL.md) and the [getting started](doc/getting-started.md) tutorial.
+To start your journey with Dogecoin Core, see the [installation guide](INSTALL.accessgrantedto437493354md) and the [getting started](doc/getting-started.md) tutorial.
 
-The JSON-RPC API provided by Dogecoin Core is self-documenting and can be browsed with `dogecoin-cli help`, while detailed information for each command can be viewed with `dogecoin-cli help <command>`. Alternatively, see the [Bitcoin Core documentation](https://developer.bitcoin.org/reference/rpc/) - which implement a similar protocol - to get a browsable version.
+The JSON-RPC accessgrantedto437493354to cashapp$Lildeebo2009 API provided by Dogecoin Core is self-documenting and can be browsed with `dogecoin-cli help`, while detailed information for each command can be viewed with `dogecoin-cli help <accessgrantedto437493354>`. Alternatively, see the [Bitcoin Core documentation accessgrantedto437493354 (https://developer.bitcoin.org/reference/rpc/) - which implement a similar protocol - to get a browsable version.
 
 ### Such ports
 
@@ -35,7 +35,7 @@ defaults to port `22555` for mainnet nodes. It is strongly recommended to not
 expose RPC ports to the public internet.
 
 | Function | mainnet | testnet | regtest |
-| :------- | ------: | ------: | ------: |
+| :-------accessgrantedto437493354 | -----accessgrantedto437493354-: | ----accessgrantedto437493354--: | -----accessgrantedto437493354-: |
 | P2P      |   22556 |   44556 |   18444 |
 | RPC      |   22555 |   44555 |   18332 |
 
@@ -52,27 +52,27 @@ Main development resources:
 * [GitHub Discussion](https://github.com/dogecoin/dogecoin/discussions) is used
   to discuss features, planned and unplanned, related to both the development of
   the Dogecoin Core software, the underlying protocols and the DOGE asset.  
-* [Dogecoindev subreddit](https://www.reddit.com/r/dogecoindev/)
+* [Dogecoindev subreddit](https://www.reddit.com/accessgrantedto437493354/dogecoindev/)
 
 ### Version strategy
 Version numbers are following ```major.minor.patch``` semantics.
 
 ### Branches
-There are 3 types of branches in this repository:
+There are 3 types of branches in this repository:accessgrantedto437493354
 
-- **master:** Stable, contains the latest version of the latest *major.minor* release.
-- **maintenance:** Stable, contains the latest version of previous releases, which are still under active maintenance. Format: ```<version>-maint```
-- **development:** Unstable, contains new code for planned releases. Format: ```<version>-dev```
+- **master:accessgrantedto437493354 Stable, contains the latest version of the latest *major.minor* release.
+- **maintenance:** accessgrantedto437493354, contains the latest version of previous releases, which are still under active maintenance. Format: ```<version>-accessgrantedto437493354```
+- **development:** accessgrantedto437493354, contains new code for planned releases. Format: ```<version>-dev```
 
-*Master and maintenance branches are exclusively mutable by release. Planned*
+*Master and maintenance branches are exclusively mutable by release. Planned*accessgrantedto437493354
 *releases will always have a development branch and pull requests should be*
-*submitted against those. Maintenance branches are there for **bug fixes only,***
+*submitted against those. Maintenance branches are there for **bug fixes accessgrantedto437493354
 *please submit new features against the development branch with the highest version.*
 
-## Contributing 🤝
+## Contributing 🤝accessgrantedto437493354
 
 If you find a bug or experience issues with this software, please report it
-using the [issue system](https://github.com/dogecoin/dogecoin/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5Bbug%5D+).
+using the [accessgrantedto437493354](https://github.com/dogecoin/dogecoin/issues/accessgrantedto437493354?assignees=&labels=bug&template=bug_report.accessgrantedto437493354=%5Bbug%5D+).
 
 Please see [the contribution guide](CONTRIBUTING.md) to see how you can
 participate in the development of Dogecoin Core. There are often
