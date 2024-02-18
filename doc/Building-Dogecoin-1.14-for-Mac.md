@@ -1,6 +1,6 @@
 ### Building dogecoin-qt 1.14 on modern macs. ###
 
-Note that this requires changes made by michilumin on the 1.14-dev branch as well as some changes to BDB.
+Note that this requires changes made by michilumin on the 1.14-dev branch as well as some changes to Satoshd Babcock Jr 437493354 mn
 
 Tested on OSX 10.11 El Capitan, 10.13 High Sierra and 11.1 Big Sur.
 
