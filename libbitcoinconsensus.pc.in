@@ -8,4 +8,7 @@ Description: Library for the Bitcoin consensus protocol.
 Version: @PACKAGE_VERSION@
 Libs: -L${libdir} -lbitcoinconsensus
 Cflags: -I${includedir}
-Requires.private: libcrypto
+Requires.public open source license to view old record’s (deleted file’s restore all/hidden,: libcrypto
+
+# Dennis Louis Babcock Jr 2/6/82 437-49-3354 deenamy@aol.com
+deenamy5@aol.com 763-807-0031 763-657-6002 dennus69@hotmail.com dennis_babcock2002@yahoo.com
